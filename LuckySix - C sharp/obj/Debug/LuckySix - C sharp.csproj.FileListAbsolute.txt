@@ -1,0 +1,23 @@
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\bin\Debug\Mono.Cecil.dll
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\bin\Debug\nunit.core.dll
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\bin\Debug\nunit.util.dll
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\bin\Debug\LuckySix - C sharp.exe.config
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\bin\Debug\LuckySix - C sharp.exe
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\bin\Debug\LuckySix - C sharp.pdb
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\bin\Debug\nunit.framework.dll
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\bin\Debug\WebDriver.dll
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\bin\Debug\nunit.framework.xml
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\bin\Debug\WebDriver.xml
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\obj\Debug\LuckySix - C sharp.csprojAssemblyReference.cache
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\obj\Debug\LuckySix___C_sharp.Properties.Resources.resources
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\obj\Debug\LuckySix - C sharp.csproj.GenerateResource.cache
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\obj\Debug\LuckySix - C sharp.csproj.CoreCompileInputs.cache
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\obj\Debug\LuckySix - C sharp.csproj.CopyComplete
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\obj\Debug\LuckySix - C sharp.exe
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\obj\Debug\LuckySix - C sharp.pdb
+C:\Users\Adr\Documents\Projects\Victor P\LuckySix - C sharp\LuckySix - C sharp\obj\Debug\LuckySix___C_sharp.Form1.resources
